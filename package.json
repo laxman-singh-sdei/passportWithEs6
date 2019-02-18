@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./bin/start",
     "test": "mocha --recursive './test/*Test.js' --compilers js:babel-core/register"
-  },
+  }, 
   "dependencies": {
     "babel-core": "^6.23.1",
     "babel-polyfill": "^6.23.0",
